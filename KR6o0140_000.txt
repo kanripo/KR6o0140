@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說八大靈塔名號經
+#+DATE: 2015-08-30 21:01:37.442813
+#+PROPERTY: JUAN 0
