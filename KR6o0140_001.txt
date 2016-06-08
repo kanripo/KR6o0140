@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:37.270379
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:00
 #+TITLE: 佛說八大靈塔名號經
 #+PROPERTY: CBETA_ID T32n1685
 #+PROPERTY: ID KR6o0140
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1685
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0140_T_001-0773a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1685¶
-
- 佛說八大靈塔名號經¶
+No. 1685¶
+佛說八大靈塔名號經¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
@@ -44,9 +43,9 @@ No.1685¶
 　廣嚴大城靈塔中
 　如來思念壽量處¶
 　拘尸那城大力地
-　娑羅雙樹入涅槃
+　娑羅雙樹入涅槃」
 #+END_VERSE
-」¶
+¶
 
 如是八大靈塔。若有婆羅門及善男子善女¶
 人等。發大信心修建塔廟承事供養。是人得¶
@@ -77,7 +76,7 @@ No.1685¶
 　此等聖境各一年
 　釋迦如來而行住¶
 　如是八十年住也
-　然後牟尼入涅槃
+　然後牟尼入涅槃」
 #+END_VERSE
-」¶
+¶
 佛說八大靈塔名號經
